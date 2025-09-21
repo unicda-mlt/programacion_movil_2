@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Máximo Liberata Torres (aka MaximoLiberata) is a back-end web developer specializing in APIs and Node.js.
+        \n\n
+        He maintains a presence on GitHub where he has:
+        \n\nCreated and contributed to multiple public repositories – examples include react-native-mqtt.js-example, which is a demo of using MQTT.js in React Native; MQTT-Support, a fork of an MQTT client library adapted for React Native; and readable-stream-bigint, an archived project related to node.js stream handling.
+        \n\nEarned several GitHub achievements: Starstruck, Pull Shark, and Arctic Code Vault Contributor.
+        \n\nAccumulated at least 6 “stars” on his GitHub profile, indicating recognition by other developers.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
